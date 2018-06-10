@@ -3,5 +3,8 @@ public class Coal {
         System.out.println("Cześć!");
         System.out.println("A to dodatek z testa");
 
+        int x = 454;
+
+
     }
 }
